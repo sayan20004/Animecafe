@@ -1,4 +1,4 @@
-# Project Title
+# AnimeCafw ☕
 
 ## Inspiration
 The design of this website is inspired by [Sundown Studio](https://sundown-studio.com).
@@ -12,15 +12,10 @@ This project was developed following the tutorial provided by Sheriyans Coding S
 - JavaScript
 - [LocomotiveJS](https://github.com/locomotivemtl/locomotive-scroll) for smooth scrolling.
 
-## Project Structure
-- [Folder 1](/folder1): Description of contents in folder 1.
-- [Folder 2](/folder2): Description of contents in folder 2.
 
-## Usage
-Include any relevant instructions or steps to run the project.
 
 ## Credits
-- Sheriyans Coding School (YouTube): [Link to Tutorial](#)
+- Sheriyans Coding School (YouTube): [Link to Tutorial](https://youtu.be/6VbETTS67rM?si=jBDn1M3MZmNKuvSU)
 - Sundown Studio: [Link to Inspiration](https://sundown-studio.com)
 
 ## License
