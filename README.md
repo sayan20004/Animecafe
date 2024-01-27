@@ -1,4 +1,4 @@
-# AnimeCafw ☕
+# AnimeCafe ☕
 
 ## Inspiration
 The design of this website is inspired by [Sundown Studio](https://sundown-studio.com).
